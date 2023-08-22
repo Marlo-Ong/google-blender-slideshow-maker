@@ -1,14 +1,12 @@
-### Download Images from Google Photos using Python
+### Create Procedural Blender Photo Slideshow Animation 
 
-![](./read_me_img/header.png)
+How to use:
+1. Run the instructions within the Jupyter notebook to download pictures from a Google Photos account
+2. Open the .blend file in Blender 3D
+3. Open the "Scripting" tab view and run the "slideshow" script (Alt+P)
+4. After the objects are created, render the animation and save as a video.
 
-Using the Google Photos REST API you can download, upload and modify images stored in Google Photos.
-
-Just as a quick refresher, REST is an architectural style for application programming interfaces that allows interaction with RESTful web services.
-
-A GET request allows to retrieve database entries, POST requests to create new entries, PUT requests to update an entry and DELETE requests to delete one.
-
-The jupyter notebook describes how to set up a simple project that lets you use Python to download images from Google Photos.
+(Forked from Dominik Polzer's Google Photos API Downloader: https://github.com/polzerdo55862/google-photos-api)
 
 ## Used Libraries and Tools
 
